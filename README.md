@@ -29,9 +29,9 @@ and save call history using the **Local Storage API**.
 
 ## 🚀 Live Demo
 
-🌐 **Live App:** https://munna1911.github.io/phone-dialer-app/
+🌐 **Live App:  https://munna1911.github.io/phone-dialer-app/
 
-💻 **GitHub Repository:** https://github.com/Munna1911/phone-dialer-app
+💻 **GitHub Repository: https://github.com/Munna1911/phone-dialer-app/edit/main/README.md
 
 
 ## 👨‍💻 Author
